@@ -2,10 +2,7 @@
 
 .inline {
     display: flex;
-    justify-content: flex-start;
-    flex-basis: 40%;
-    flex-grow: 3;
-    flex-shrink: 2;
+    list-style-type: none;
 }
 
 .box {
